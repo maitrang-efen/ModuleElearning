@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%203.50.24832.0%0D%0A%0D%0A00:00:00.150%20--%3E%2000:00:03.788%0D%0AChapitre%202,%20Principe%20%0Aet%20vocabulaire%20de%20base%20de%20la%20photographie.%0D%0A%0D%0A"}')
